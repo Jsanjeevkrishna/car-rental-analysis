@@ -1,4 +1,3 @@
-# car-rental-analysis
 # YHK/CarRentalMangementSystem
 # Car Rental Management System
 
